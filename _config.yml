@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dhwjdguq@email.com"
+      # url: "mailto:dhwjdguq@email.com"
     - label: "Github"
       icon: "fas fa-fw fa-github"
       url: "https://github.com/haquoh"
