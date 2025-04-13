@@ -33,7 +33,7 @@ MCP (Model Context Protocol) : LLM (Large Language Model) 모델이 외부 어�
   
   ![ListTool](/assets/images/다운로드.png)
   MCP는 프로토콜이다. JSON-RPC/HTTP 를 이용하는 LLM 어플리케이션과 Tool 서버가 어떻게 통신하는지 이해를 하면된다.
-  이 걸 잘하기 위해 만든 규약이 곧 MCP 이기 때문입니다다.
+  이 걸 잘하기 위해 만든 규약이 곧 MCP 이기 때문입니다.
 
 ## 주의점?
 
