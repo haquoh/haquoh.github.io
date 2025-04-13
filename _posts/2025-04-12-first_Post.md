@@ -8,7 +8,7 @@ tags:
   - claude
 toc: true  # 목차 표시 여부
 toc_sticky: true  # 목차를 스크롤에 따라 고정
-last_modified_at: 2025-04-13T18:30:00+09:00  # 마지막 수정 시간
+last_modified_at: 2025-04-13T18:43:00+09:00  # 마지막 수정 시간
 ---
 
 MCP (Model Context Protocol) : LLM (Large Language Model) 모델이 외부 어플리케이션과 연동할 수 있도록 해주는 스펙을 가진 protocol 입니다.
