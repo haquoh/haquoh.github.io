@@ -24,7 +24,7 @@ last_modified_at: 2025-06-25T17:43:00+09:00  # 마지막 수정 시간
  하위 컴포넌트에서의 빈도성 강한 API 호출의 문제와 useEffect 남발에 대해 다시 한번 생각을 해보아야 하는 문제점이라고 생각한다. 
 
  < 개선 화면 >
- ![썸네일2](/aseets/images/lecture.gif)
+ ![썸네일2](/assets/images/lecture.gif)
 
  랜더링 시간이 8000ms 에서 2000mc 로 약 80% 성능 개선을 보였다. 
  
